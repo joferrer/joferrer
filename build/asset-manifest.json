@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "joferrer.github.io/prueba/static/css/main.b100e6da.chunk.css",
+    "main.js": "joferrer.github.io/prueba/static/js/main.a07a009d.chunk.js",
+    "main.js.map": "joferrer.github.io/prueba/static/js/main.a07a009d.chunk.js.map",
+    "runtime-main.js": "joferrer.github.io/prueba/static/js/runtime-main.e1afa9e3.js",
+    "runtime-main.js.map": "joferrer.github.io/prueba/static/js/runtime-main.e1afa9e3.js.map",
+    "static/js/2.7cda966f.chunk.js": "joferrer.github.io/prueba/static/js/2.7cda966f.chunk.js",
+    "static/js/2.7cda966f.chunk.js.map": "joferrer.github.io/prueba/static/js/2.7cda966f.chunk.js.map",
+    "index.html": "joferrer.github.io/prueba/index.html",
+    "precache-manifest.b4a6d81b095a9f13813d7e9081fd8bed.js": "joferrer.github.io/prueba/precache-manifest.b4a6d81b095a9f13813d7e9081fd8bed.js",
+    "service-worker.js": "joferrer.github.io/prueba/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "joferrer.github.io/prueba/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1afa9e3.js",
+    "static/js/2.7cda966f.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a07a009d.chunk.js"
+  ]
+}
